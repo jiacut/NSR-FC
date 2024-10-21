@@ -1,0 +1,6 @@
+pyyaml
+scikit-learn
+tqdm
+pandas
+faiss==1.7.2
+numpy
